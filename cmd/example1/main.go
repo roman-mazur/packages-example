@@ -1,7 +1,7 @@
 package main
 
 import (
-	"kpi.org/architecture/lab2/tools"
+	"github.com/roman-mazur/packages-example/tools"
 	"log"
 )
 

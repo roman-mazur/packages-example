@@ -10,3 +10,8 @@
 go run ./cmd/example1
 ```
 з кореня цього репозиторія. 
+
+Або ж за допомогою команди
+```shell script
+go run github.com/roman-mazur/packages-example/cmd/example1
+```
